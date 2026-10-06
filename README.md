@@ -9,12 +9,6 @@
 
 <br/>
 
-![Location](https://img.shields.io/badge/Coimbatore%2C%20Tamil%20Nadu-0d1117?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Status](https://img.shields.io/badge/Open%20to-Internships-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=ramkumar2007developer&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-
-</div>
-
 ---
 
 ## 🚀 About Me
