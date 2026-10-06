@@ -7,6 +7,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=Building+scalable+APIs+with+FastAPI;Integrating+Generative+AI+%26+RAG+into+real+products;B.Tech+AI+%26+Data+Science+Student;Open+to+Full-Stack+%2F+SDE+Internships" alt="Typing animation" />
 </a>
 
+<br>
+
 ---
 ## 🚀 About Me
 
@@ -113,7 +115,6 @@ I also integrate **Generative AI, RAG, and vector embeddings** into real product
 
 <br/>
 
-*Open to Full-Stack / Software Engineering internships. Let's build something great together.* 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2c5364,50:203a43,100:0f2027&section=footer" width="100%" alt="footer"/>
 
