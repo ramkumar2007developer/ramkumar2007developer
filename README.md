@@ -23,7 +23,7 @@
 <tr>
 <td width="62%" valign="top">
 
-Hi, I'm **Ramkumar G** 👋, based in **Coimbatore, Tamil Nadu, India**.
+Hi, I'm **Ramkumar G** 👋, **Coimbatore, Tamil Nadu, India**.
 
 I'm a **B.Tech student in Artificial Intelligence & Data Science** at VSB College of Engineering and Technical Campus (CGPA **8.4**).
 
@@ -31,9 +31,6 @@ I build full-stack applications with **FastAPI, React.js, and PostgreSQL**, and 
 
 I also integrate **Generative AI, RAG, and vector embeddings** into real products. I've delivered **4+ end-to-end projects**.
 
-🎯 **Currently seeking:** a Full-Stack / Software Engineering internship.
-
-💡 **Motto:** *Build it right. Build it useful. Ship it.*
 
 </td>
 <td width="38%" align="center" valign="middle">
@@ -88,17 +85,6 @@ I also integrate **Generative AI, RAG, and vector embeddings** into real product
 ![Scikit-learn](https://img.shields.io/badge/Random%20Forest-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Prompt](https://img.shields.io/badge/Prompt%20Engineering-0A66C2?style=flat-square&logo=probot&logoColor=white)
 
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS%20(basics)-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-
 ---
 
 ## 📂 Featured Projects
@@ -123,22 +109,6 @@ I also integrate **Generative AI, RAG, and vector embeddings** into real product
 
 </div>
 
----
-
-## 🎓 Education, Certifications & Experience
-
-- 🎓 **B.Tech, Artificial Intelligence & Data Science**: VSB College of Engineering and Technical Campus, Coimbatore (in progress, CGPA 8.4)
-- 📜 **NPTEL**: Data Structures and Algorithm Design (4 credits)
-- 📜 **Infosys Springboard**: Python and Java Foundation
-- 💼 **Machine Learning Intern**, Pantech IT Solutions Pvt. Ltd. (2026, 30-day internship)
-
----
-
-## 🌱 Currently Focusing On
-
-- ⚡ Sharpening **FastAPI** and **React** full-stack architecture
-- 🤖 Going deeper into **RAG, vector embeddings, and LLM integration**
-- 🧩 Practicing **Data Structures & Algorithms** and debugging for production-ready code
 
 ---
 
