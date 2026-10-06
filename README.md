@@ -17,7 +17,7 @@
 <tr>
 <td width="62%" valign="top">
 
-Hi, I'm **Ramkumar G** 👋, **Coimbatore, Tamil Nadu, India**.
+Hi, I'm **Ramkumar G** 👋, based in **Coimbatore, Tamil Nadu, India**.
 
 I'm a **B.Tech student in Artificial Intelligence & Data Science** at VSB College of Engineering and Technical Campus (CGPA **8.4**).
 
@@ -28,13 +28,7 @@ I also integrate **Generative AI, RAG, and vector embeddings** into real product
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" alt="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="60" alt="FastAPI"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" alt="React"/>
-<br/><br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" alt="PostgreSQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60" alt="MongoDB"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" alt="Git"/>
+<img src="assets/developer.svg" width="320" alt="Developer working at a desk"/>
 
 </td>
 </tr>
@@ -44,56 +38,39 @@ I also integrate **Generative AI, RAG, and vector embeddings** into real product
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+**Languages**
 
-<table>
-<tr>
-<td align="center" width="170"><b>Languages</b></td>
-<td align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Frontend</b></td>
-<td align="left">
-<img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Responsive%20Design-7952B3?style=flat-square&logo=css3&logoColor=white" alt="Responsive Design"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Backend &amp; APIs</b></td>
-<td align="left">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Node.js%20%28basics%29-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js%20%28basics%29-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
-<img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/JWT%20Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Databases</b></td>
-<td align="left">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>AI / ML</b></td>
-<td align="left">
-<img src="https://img.shields.io/badge/LLM%20Integration-412991?style=flat-square&logo=openai&logoColor=white" alt="LLM Integration"/>
-<img src="https://img.shields.io/badge/RAG%20%28basics%29-FF4F8B?style=flat-square&logo=databricks&logoColor=white" alt="RAG"/>
-<img src="https://img.shields.io/badge/Generative%20AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/Random%20Forest-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Random Forest"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-0A66C2?style=flat-square&logo=probot&logoColor=white" alt="Prompt Engineering"/>
-</td>
-</tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-</div>
+**Frontend**
+
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Responsive](https://img.shields.io/badge/Responsive%20Design-7952B3?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js%20(basics)-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js%20(basics)-000000?style=flat-square&logo=express&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT%20Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**AI / ML**
+
+![LLM](https://img.shields.io/badge/LLM%20Integration-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20(basics)-FF4F8B?style=flat-square&logo=databricks&logoColor=white)
+![GenAI](https://img.shields.io/badge/Generative%20AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Random%20Forest-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Prompt](https://img.shields.io/badge/Prompt%20Engineering-0A66C2?style=flat-square&logo=probot&logoColor=white)
 
 ---
 
