@@ -7,10 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=Building+scalable+APIs+with+FastAPI;Integrating+Generative+AI+%26+RAG+into+real+products;B.Tech+AI+%26+Data+Science+Student;Open+to+Full-Stack+%2F+SDE+Internships" alt="Typing animation" />
 </a>
 
-<br/>
-
 ---
-
 ## 🚀 About Me
 
 <table>
